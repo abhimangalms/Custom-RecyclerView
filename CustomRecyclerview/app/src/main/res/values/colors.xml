@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#5D89C1</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_white_gray">#C8C8C8</color>
+    <color name="blue_gray">#323F4E</color>
+    <color name="light_blue_gray">#415060</color>
+    <color name="light_gray">#5D646C</color>
+    <color name="light_blue">#18324E</color>
+    <color name="backgroundTheme_light">#DFDFDF</color>
+    <color name="backgroundTheme_dark">#171717</color>
+
+    <color name="light_black">#232020</color>
+    <color name="light_white">#DFDFDF</color>
+
+    <color name="bg_card_box">#FE8095</color>
+    <color name="bg_card_tracker">#6795D1</color>
+    <color name="bg_card_bulk">#F86666</color>
+    <color name="bg_card_profile">#6CC9C2</color>
+
+    <color name="bg_card_imei">#FF5C77</color>
+    <color name="bg_card_gps">#3EA8A0</color>
+    <color name="bg_card_serial_num">#58A3D5</color>
+
+    <color name="bg_card_scan_box">#5D89C1</color>
+    <color name="bg_card_scan_device">#EC795D</color>
+
+    <color name="bg_button">#63C4F3</color>
+
+    <color name="barcode_reticle_background">#99000000</color>
+    <color name="barcode_reticle_stroke">#ffffff</color>
+
+
+</resources>
